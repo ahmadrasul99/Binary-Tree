@@ -1,0 +1,6 @@
+Analysis of makeEmpty(BinaryNode *& t)
+
+Big-O Notation: O(n)
+
+makeEmpty is a function that is going to run equivalent to the number of nodes
+in the tree. That is why the complexity of makeEmpty is only O(n).
